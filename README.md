@@ -11,3 +11,7 @@ Esercizio numero 34 pagina 191
 Esercizio 25 pagina 190
 - I voti assegnati a 30 studenti di una classe in una prova di italiano sono memorizzati in un dizionario che ha per chiave la matricola, mentre il valore associato è il voto.
 Elenca i risultati in ordine crescente di voto e successivamente visualizza quali voti diversi tra loro sono stati assegnati, riducendo a uno i voti uguali.
+
+Esercizio 27 pagina 190
+- Organizza con un dizionario la rubrica con i nomi delle persone e i rispettivi numeri telefonici. Fornito poi il nome della persona,
+il programma visualizza il suo numero di telefono oppure un messaggio nel caso la persona non sia presente nella rubrica.
