@@ -15,3 +15,7 @@ Elenca i risultati in ordine crescente di voto e successivamente visualizza qual
 Esercizio 27 pagina 190
 - Organizza con un dizionario la rubrica con i nomi delle persone e i rispettivi numeri telefonici. Fornito poi il nome della persona,
 il programma visualizza il suo numero di telefono oppure un messaggio nel caso la persona non sia presente nella rubrica.
+
+Esercizio 28 pagina 190
+- I nomi delle città e i corrispondenti Codici di Avviamento Postali (CAP), vengono inseriti da tastiera e memorizzati in un dizionario,
+dove il CAP è la chiave. Fornito poi il nome di una città, costruisci un messaggio che visualizzi il suo CAP oppure un messaggio nel caso lacittà non sia compresa nell'elenco. Analagomente, fornendo il CAP restituisce il nome della città oppure un messaggio di errore.
