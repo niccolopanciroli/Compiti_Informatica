@@ -1,4 +1,7 @@
-
+'''
+Nella maggior parte dei sistemi fiscali la tassazione dei redditi avvine con aliquote progressive ( o a scagliono di reddito). 
+Scrivi un programma che legga un reddito da tastiera e colacoli l'imposrto sul reddito e la tassazione media. 
+'''
 reddito = int(input("Inserisci il tuo reddito per conoscere l'importo della imposta sul reddito e la tassazione media "))
 
 if reddito <= 15000:
