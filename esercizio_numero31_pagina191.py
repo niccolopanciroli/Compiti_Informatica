@@ -1,3 +1,9 @@
+'''
+Un'azienda vende prodotti in tutta Italia e la rete di vendita è suddivisa in quattro zone: Nord, Centro, Sud, Isole.
+Dopo aver acquistato in un array il fatturato nelle quattro zone, calcola:
+- il totale del fatturato;
+- i valori in percentuale delle vendite nelle quattro zone rispetto al totale.
+'''
 zone = ["nord", "centro", "sud", "isole"]
 tot_fatturato = []
 
